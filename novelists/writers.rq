@@ -1,0 +1,10 @@
+# Novelists and their lives (time-i-gram example "novelists").
+SELECT ?writer ?writerLabel ?birth ?death WHERE {
+  VALUES ?writer { wd:Q36322 wd:Q47152 wd:Q127332 wd:Q80137 wd:Q9711 wd:Q33977 wd:Q5686 wd:Q43444 wd:Q131333 wd:Q4985
+                   wd:Q991 wd:Q7243 wd:Q7245 wd:Q132805 wd:Q7199 wd:Q37030 wd:Q6882 wd:Q40909 wd:Q905 wd:Q93354
+                   wd:Q38392 wd:Q23434 wd:Q5878 wd:Q72334 }
+  ?writer wdt:P569 ?birth .
+  OPTIONAL { ?writer wdt:P570 ?death . }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,fr". }
+}
+ORDER BY ?birth

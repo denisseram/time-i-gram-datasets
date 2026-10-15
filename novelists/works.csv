@@ -1,0 +1,75 @@
+writer,writerLabel,birth,death,work,workLabel,sitelinks,published
+http://www.wikidata.org/entity/Q36322,Jane Austen,1775-12-16T00:00:00Z,1817-07-18T00:00:00Z,http://www.wikidata.org/entity/Q274744,Sense and Sensibility,56,1811-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q36322,Jane Austen,1775-12-16T00:00:00Z,1817-07-18T00:00:00Z,http://www.wikidata.org/entity/Q170583,Pride and Prejudice,100,1813-01-28T00:00:00Z
+http://www.wikidata.org/entity/Q36322,Jane Austen,1775-12-16T00:00:00Z,1817-07-18T00:00:00Z,http://www.wikidata.org/entity/Q469690,Mansfield Park,44,1814-05-01T00:00:00Z
+http://www.wikidata.org/entity/Q36322,Jane Austen,1775-12-16T00:00:00Z,1817-07-18T00:00:00Z,http://www.wikidata.org/entity/Q223880,Emma,49,1815-12-23T00:00:00Z
+http://www.wikidata.org/entity/Q36322,Jane Austen,1775-12-16T00:00:00Z,1817-07-18T00:00:00Z,http://www.wikidata.org/entity/Q333179,Persuasion,46,1817-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q36322,Jane Austen,1775-12-16T00:00:00Z,1817-07-18T00:00:00Z,http://www.wikidata.org/entity/Q477508,Northanger Abbey,36,1818-12-01T00:00:00Z
+http://www.wikidata.org/entity/Q47152,Mary Shelley,1797-08-30T00:00:00Z,1851-02-01T00:00:00Z,http://www.wikidata.org/entity/Q150827,"Frankenstein; or, The Modern Prometheus",88,1818-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q9711,Honoré de Balzac,1799-05-20T00:00:00Z,1850-08-18T00:00:00Z,http://www.wikidata.org/entity/Q50188,The Human Comedy,39,1830-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q9711,Honoré de Balzac,1799-05-20T00:00:00Z,1850-08-18T00:00:00Z,http://www.wikidata.org/entity/Q1142149,La Peau de chagrin,32,1831-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q9711,Honoré de Balzac,1799-05-20T00:00:00Z,1850-08-18T00:00:00Z,http://www.wikidata.org/entity/Q1373644,Eugénie Grandet,30,1833-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q9711,Honoré de Balzac,1799-05-20T00:00:00Z,1850-08-18T00:00:00Z,http://www.wikidata.org/entity/Q240617,Père Goriot,61,1835-03-01T00:00:00Z
+http://www.wikidata.org/entity/Q5686,Charles Dickens,1812-02-07T00:00:00Z,1870-06-09T00:00:00Z,http://www.wikidata.org/entity/Q460583,The Pickwick Papers,40,1836-04-01T00:00:00Z
+http://www.wikidata.org/entity/Q5686,Charles Dickens,1812-02-07T00:00:00Z,1870-06-09T00:00:00Z,http://www.wikidata.org/entity/Q164974,Oliver Twist,83,1838-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q5686,Charles Dickens,1812-02-07T00:00:00Z,1870-06-09T00:00:00Z,http://www.wikidata.org/entity/Q847642,Nicholas Nickleby,31,1839-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q5686,Charles Dickens,1812-02-07T00:00:00Z,1870-06-09T00:00:00Z,http://www.wikidata.org/entity/Q62879,A Christmas Carol,75,1843-12-19T00:00:00Z
+http://www.wikidata.org/entity/Q5686,Charles Dickens,1812-02-07T00:00:00Z,1870-06-09T00:00:00Z,http://www.wikidata.org/entity/Q189811,David Copperfield,68,1850-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q5686,Charles Dickens,1812-02-07T00:00:00Z,1870-06-09T00:00:00Z,http://www.wikidata.org/entity/Q883305,Bleak House,38,1853-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q5686,Charles Dickens,1812-02-07T00:00:00Z,1870-06-09T00:00:00Z,http://www.wikidata.org/entity/Q308918,A Tale of Two Cities,65,1859-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q5686,Charles Dickens,1812-02-07T00:00:00Z,1870-06-09T00:00:00Z,http://www.wikidata.org/entity/Q219552,Great Expectations,69,1861-03-23T00:00:00Z
+http://www.wikidata.org/entity/Q127332,Charlotte Brontë,1816-04-21T00:00:00Z,1855-03-31T00:00:00Z,http://www.wikidata.org/entity/Q182961,Jane Eyre,70,1847-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q80137,Emily Brontë,1818-07-30T00:00:00Z,1848-12-19T00:00:00Z,http://www.wikidata.org/entity/Q202975,Wuthering Heights,80,1847-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q4985,Herman Melville,1819-08-01T00:00:00Z,1891-09-28T00:00:00Z,http://www.wikidata.org/entity/Q174596,Moby-Dick,89,1851-10-18T00:00:00Z
+http://www.wikidata.org/entity/Q131333,George Eliot,1819-11-22T00:00:00Z,1880-12-22T00:00:00Z,http://www.wikidata.org/entity/Q313129,Middlemarch,30,1871-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q991,Fyodor Dostoyevsky,1821-11-11T00:00:00Z,1881-02-09T00:00:00Z,http://www.wikidata.org/entity/Q117293,Poor Folk,47,1846-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q991,Fyodor Dostoyevsky,1821-11-11T00:00:00Z,1881-02-09T00:00:00Z,http://www.wikidata.org/entity/Q1192975,The Double,34,1846-02-13T00:00:00Z
+http://www.wikidata.org/entity/Q991,Fyodor Dostoyevsky,1821-11-11T00:00:00Z,1881-02-09T00:00:00Z,http://www.wikidata.org/entity/Q1161171,The House of the Dead,42,1862-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q991,Fyodor Dostoyevsky,1821-11-11T00:00:00Z,1881-02-09T00:00:00Z,http://www.wikidata.org/entity/Q695116,Notes from Underground,50,1864-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q991,Fyodor Dostoyevsky,1821-11-11T00:00:00Z,1881-02-09T00:00:00Z,http://www.wikidata.org/entity/Q165318,Crime and Punishment,109,1866-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q991,Fyodor Dostoyevsky,1821-11-11T00:00:00Z,1881-02-09T00:00:00Z,http://www.wikidata.org/entity/Q223688,The Gambler,49,1867-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q991,Fyodor Dostoyevsky,1821-11-11T00:00:00Z,1881-02-09T00:00:00Z,http://www.wikidata.org/entity/Q210784,The Idiot,70,1869-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q991,Fyodor Dostoyevsky,1821-11-11T00:00:00Z,1881-02-09T00:00:00Z,http://www.wikidata.org/entity/Q329989,Demons,53,1871-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q991,Fyodor Dostoyevsky,1821-11-11T00:00:00Z,1881-02-09T00:00:00Z,http://www.wikidata.org/entity/Q183157,The Brothers Karamazov,91,1880-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q43444,Gustave Flaubert,1821-12-12T00:00:00Z,1880-05-08T00:00:00Z,http://www.wikidata.org/entity/Q193417,Madame Bovary,74,1857-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q43444,Gustave Flaubert,1821-12-12T00:00:00Z,1880-05-08T00:00:00Z,http://www.wikidata.org/entity/Q117182,Salammbô,34,1862-11-24T00:00:00Z
+http://www.wikidata.org/entity/Q43444,Gustave Flaubert,1821-12-12T00:00:00Z,1880-05-08T00:00:00Z,http://www.wikidata.org/entity/Q1212285,Sentimental Education,34,1869-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q33977,Jules Verne,1828-02-08T00:00:00Z,1905-03-24T00:00:00Z,http://www.wikidata.org/entity/Q622634,Cinq Semaines en ballon,43,1863-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q33977,Jules Verne,1828-02-08T00:00:00Z,1905-03-24T00:00:00Z,http://www.wikidata.org/entity/Q219457,A Journey to the Centre of the Earth,64,1864-11-25T00:00:00Z
+http://www.wikidata.org/entity/Q33977,Jules Verne,1828-02-08T00:00:00Z,1905-03-24T00:00:00Z,http://www.wikidata.org/entity/Q53592,From the Earth to the Moon,44,1865-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q33977,Jules Verne,1828-02-08T00:00:00Z,1905-03-24T00:00:00Z,http://www.wikidata.org/entity/Q183565,Twenty Thousand Leagues Under the Sea,77,1869-03-20T00:00:00Z
+http://www.wikidata.org/entity/Q33977,Jules Verne,1828-02-08T00:00:00Z,1905-03-24T00:00:00Z,http://www.wikidata.org/entity/Q1219561,Around the World in Eighty Days,79,1872-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q33977,Jules Verne,1828-02-08T00:00:00Z,1905-03-24T00:00:00Z,http://www.wikidata.org/entity/Q1121567,Michael Strogoff,39,1876-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q33977,Jules Verne,1828-02-08T00:00:00Z,1905-03-24T00:00:00Z,http://www.wikidata.org/entity/Q471005,The Mysterious Island,53,1888-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q7243,Leo Tolstoy,1828-09-09T00:00:00Z,1910-11-20T00:00:00Z,http://www.wikidata.org/entity/Q161531,War and Peace,97,1869-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q7243,Leo Tolstoy,1828-09-09T00:00:00Z,1910-11-20T00:00:00Z,http://www.wikidata.org/entity/Q147787,Anna Karenina,109,1877-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q7243,Leo Tolstoy,1828-09-09T00:00:00Z,1910-11-20T00:00:00Z,http://www.wikidata.org/entity/Q1214091,The Kreutzer Sonata,31,1889-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q7243,Leo Tolstoy,1828-09-09T00:00:00Z,1910-11-20T00:00:00Z,http://www.wikidata.org/entity/Q146866,Resurrection,44,1899-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q7245,Mark Twain,1835-11-30T00:00:00Z,1910-04-21T00:00:00Z,http://www.wikidata.org/entity/Q326914,The Adventures of Tom Sawyer,77,1876-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q7245,Mark Twain,1835-11-30T00:00:00Z,1910-04-21T00:00:00Z,http://www.wikidata.org/entity/Q215410,Adventures of Huckleberry Finn,73,1884-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q132805,Thomas Hardy,1840-06-02T00:00:00Z,1928-01-11T00:00:00Z,http://www.wikidata.org/entity/Q649409,Tess of the d'Urbervilles,37,1891-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q37030,Thomas Mann,1875-06-06T00:00:00Z,1955-08-12T00:00:00Z,http://www.wikidata.org/entity/Q326909,Buddenbrooks,48,1901-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q37030,Thomas Mann,1875-06-06T00:00:00Z,1955-08-12T00:00:00Z,http://www.wikidata.org/entity/Q828296,Death in Venice,46,1912-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q37030,Thomas Mann,1875-06-06T00:00:00Z,1955-08-12T00:00:00Z,http://www.wikidata.org/entity/Q212898,The Magic Mountain,46,1924-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q37030,Thomas Mann,1875-06-06T00:00:00Z,1955-08-12T00:00:00Z,http://www.wikidata.org/entity/Q386431,Doctor Faustus,30,1947-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q40909,Virginia Woolf,1882-01-25T00:00:00Z,1941-03-28T00:00:00Z,http://www.wikidata.org/entity/Q752584,Mrs Dalloway,42,1925-05-14T00:00:00Z
+http://www.wikidata.org/entity/Q40909,Virginia Woolf,1882-01-25T00:00:00Z,1941-03-28T00:00:00Z,http://www.wikidata.org/entity/Q478016,To the Lighthouse,44,1927-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q6882,James Joyce,1882-02-02T00:00:00Z,1941-01-13T00:00:00Z,http://www.wikidata.org/entity/Q459592,Dubliners,45,1914-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q6882,James Joyce,1882-02-02T00:00:00Z,1941-01-13T00:00:00Z,http://www.wikidata.org/entity/Q465360,A Portrait of the Artist as a Young Man,46,1918-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q6882,James Joyce,1882-02-02T00:00:00Z,1941-01-13T00:00:00Z,http://www.wikidata.org/entity/Q6511,Ulysses,84,1922-02-02T00:00:00Z
+http://www.wikidata.org/entity/Q6882,James Joyce,1882-02-02T00:00:00Z,1941-01-13T00:00:00Z,http://www.wikidata.org/entity/Q6507,Finnegans Wake,41,1939-05-04T00:00:00Z
+http://www.wikidata.org/entity/Q905,Franz Kafka,1883-07-03T00:00:00Z,1924-06-03T00:00:00Z,http://www.wikidata.org/entity/Q184222,The Metamorphosis,84,1915-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q905,Franz Kafka,1883-07-03T00:00:00Z,1924-06-03T00:00:00Z,http://www.wikidata.org/entity/Q36097,The Trial,73,1925-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q905,Franz Kafka,1883-07-03T00:00:00Z,1924-06-03T00:00:00Z,http://www.wikidata.org/entity/Q682733,The Castle,47,1926-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q905,Franz Kafka,1883-07-03T00:00:00Z,1924-06-03T00:00:00Z,http://www.wikidata.org/entity/Q48229,Lost in America,33,1927-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q93354,F. Scott Fitzgerald,1896-09-24T00:00:00Z,1940-12-21T00:00:00Z,http://www.wikidata.org/entity/Q214371,The Great Gatsby,84,1925-04-10T00:00:00Z
+http://www.wikidata.org/entity/Q93354,F. Scott Fitzgerald,1896-09-24T00:00:00Z,1940-12-21T00:00:00Z,http://www.wikidata.org/entity/Q247372,Tender Is the Night,34,1934-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q38392,William Faulkner,1897-09-25T00:00:00Z,1962-07-06T00:00:00Z,http://www.wikidata.org/entity/Q135515,The Sound and the Fury,44,1929-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q38392,William Faulkner,1897-09-25T00:00:00Z,1962-07-06T00:00:00Z,http://www.wikidata.org/entity/Q1544119,As I Lay Dying,31,1930-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q23434,Ernest Hemingway,1899-07-21T00:00:00Z,1961-07-02T00:00:00Z,http://www.wikidata.org/entity/Q501351,The Sun Also Rises,51,1926-10-22T00:00:00Z
+http://www.wikidata.org/entity/Q23434,Ernest Hemingway,1899-07-21T00:00:00Z,1961-07-02T00:00:00Z,http://www.wikidata.org/entity/Q235795,A Farewell to Arms,57,1929-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q23434,Ernest Hemingway,1899-07-21T00:00:00Z,1961-07-02T00:00:00Z,http://www.wikidata.org/entity/Q26505,The Old Man and the Sea,91,1952-09-01T00:00:00Z
+http://www.wikidata.org/entity/Q5878,Gabriel García Márquez,1927-03-06T00:00:00Z,2014-04-17T00:00:00Z,http://www.wikidata.org/entity/Q1132408,No One Writes to the Colonel,41,1961-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q5878,Gabriel García Márquez,1927-03-06T00:00:00Z,2014-04-17T00:00:00Z,http://www.wikidata.org/entity/Q178869,One Hundred Years of Solitude,101,1967-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q5878,Gabriel García Márquez,1927-03-06T00:00:00Z,2014-04-17T00:00:00Z,http://www.wikidata.org/entity/Q935935,Chronicle of a Death Foretold,31,1981-01-01T00:00:00Z
+http://www.wikidata.org/entity/Q5878,Gabriel García Márquez,1927-03-06T00:00:00Z,2014-04-17T00:00:00Z,http://www.wikidata.org/entity/Q499396,Love in the Time of Cholera,54,1985-01-01T00:00:00Z
